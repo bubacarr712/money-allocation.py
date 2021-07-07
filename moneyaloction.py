@@ -8,6 +8,7 @@ first you enter your total Amount that have(which is the total Amount)
 second you enter  your Dominions starting from D200 to D5)
 then you have your result at the bottom 
 if it is talley
+meaning of the colors
 when the text turn to green means its talley
 when the text turn to red means you had a shortage
 when the text turn to yellow means you had a surplus
